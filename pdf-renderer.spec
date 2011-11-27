@@ -5,7 +5,7 @@
 Summary:        A 100% Java PDF renderer and viewer
 Name:           pdf-renderer
 Version:        0
-Release:        4
+Release:        6
 License:        LGPLv2+
 URL:            https://pdf-renderer.dev.java.net/
 Group:          Development/Java
