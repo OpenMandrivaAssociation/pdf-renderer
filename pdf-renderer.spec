@@ -103,3 +103,11 @@ cp -pr dist/javadoc/* $RPM_BUILD_ROOT%{_javadocdir}/%{name}
 %{_javadocdir}/%{name}
 
 # -----------------------------------------------------------------------------
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 0-6
++ Revision: 734193
+- rebuild
+- imported package pdf-renderer
+
