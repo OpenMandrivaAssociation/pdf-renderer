@@ -6,7 +6,7 @@
 Summary:        A 100% Java PDF renderer and viewer
 Name:           pdf-renderer
 Version:        0
-Release:        0.14.%{svn_version}.%{svn_date}.0%{?dist}
+Release:        0.15.%{svn_version}.%{svn_date}.0%{?dist}
 #src/com/sun/pdfview/decode/CCITTFaxDecoder.java under a BSD-alike License
 #src/com/sun/pdfview/font/ttf/resource/glyphlist.txt and src/com/sun/pdfview/font/ttf/AdobeGlyphList.java
 #are under Adobe Glyph List License
